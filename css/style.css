@@ -1,0 +1,28 @@
+.botones {
+    background-color: black;
+
+}
+
+.noticias{
+    background-color: bisque;
+}
+
+.aprendido{
+    background-color: antiquewhite;
+}
+.colorRGB{
+    color: rgb(243, 106, 4);
+}
+
+.formula{
+    color: green;
+}
+.piedepagina{
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+.pequeño{
+    color: white;
+}
